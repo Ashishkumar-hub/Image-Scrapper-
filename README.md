@@ -7,4 +7,6 @@ Just set the image name in the code for example you want CAT images then it will
 
 For executig the code see the how to execute the code txt file you can use and IDE for it.
 
+the scrapper.py file is the main file for downloading the image dataset you require.
+
 
